@@ -125,7 +125,7 @@ In this task, we examine hash maps.
 
 **a)** Solve the Kattis problem [torn2pieces](https://uib.kattis.com/problems/torn2pieces)
 
-**b)** Some easy BFS problem
+**b)** Some easy BFS problem (horrorlist? grid?)
 
 **c)** Solve the Kattis problem [shortestpath1](https://uib.kattis.com/problems/shortestpath1)
 
