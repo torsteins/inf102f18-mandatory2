@@ -118,6 +118,25 @@ the project you hand in.
 
 ## [4]&nbsp;&nbsp; Big-O Quiz part II (15 points)
 
+Time has come for part II of the big quiz on runtime analysis! Since it is part II, it is only reasonable that the runtime of each function now should be a function of *two* variables. The formal definition of big-O needs to be adapted; however, the intutition should be quite easy to understand.
+
+##### Definition of Big-O for functions of two variables
+A function `f(n, m)` is in `O(g(n, m))` if there exists constants `K` and `C` such that
+`C * g(n, m) > f(n, m)` for every choice of `n` and `m` where both `n > K` and `m > K`.
+
+For instance, if `f(n, m) = 5n^2 + 3nm + 6m + 8n + 10`, then `f` is in `O(n^2 + nm)`.
+
+
+In the file [BigOpartII.java](src/main/no/uib/ii/inf102/f18/mandatory2/BigOpartII.java) there are 16 functions, named from `a` to `p`. In the pdf for the assignment, create a table
+
+Function |   f  |  O
+ :---: | --- | ----
+ `a`  |  2n + m | O(n+m)
+ `b`  |   ...  |  ...
+ ... | ... | ...
+ `p` | ... | ...
+
+and fill in the blanks. The column for big-O is worth twice as much as the exact function.
 
 
 ##### Good luck! 
