@@ -127,7 +127,7 @@ A function `f(n, m)` is in `O(g(n, m))` if there exists constants `K` and `C` su
 For instance, if `f(n, m) = 5n^2 + 3nm + 6m + 8n + 10`, then `f` is in `O(n^2 + nm)`.
 
 
-In the file [BigOpartII.java](src/main/no/uib/ii/inf102/f18/mandatory2/BigOpartII.java) there are 16 functions, named from `a` to `p`. In the pdf for the assignment, create a table
+In the file [BigOpartII.java](src/main/java/no/uib/ii/inf102/f18/mandatory2/BigOpartII.java) there are 16 functions, named from `a` to `p`. In the pdf for the assignment, create a table
 
 Function |   f  |  O
  :---: | --- | ----
