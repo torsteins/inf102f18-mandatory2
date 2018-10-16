@@ -107,13 +107,30 @@ the project you hand in.
   * Late assignments will be accepted for 24 hours, with a 20 point penalty.
 
 
-## [1]&nbsp;&nbsp; Hash maps (20 points)
+## [1]&nbsp;&nbsp; Hash maps (25 points)
+In this task, we examine hash maps.
+
+**a)** Insert the keys `F B T Z R V U J P O` into an initially empty table of `m = 5` lists, using separate chaining. Use the hash function `h(k) = (13 * k) % m` to transform the `k`'th letter of the alphabet into a table entry (for instance `h('A') = (13 * 1) % 5 = 3`). Find a suitable way to illustrate what the ChainingHashTable looks like.
+
+**b)** Insert the keys `F B T Z R V U J P O` into an intially empty array of size `m = 16` using linear probing. Use the hash function `h(k) = (13 * k) % m` to transform the `k`'th letter of the alphabet into a table entry (for instance `h('B') = (13 * 2) % 16 = 10`). In the pdf, show the contents of the array on a single line.
+
+**c)** Explain
+
+**d)** (some problem where one neeeds to implement a custom hash code for an immutable class, used as key in some application)
+
+**e)** Write a class `PerfectHash` which solves the Kattis problem [uib.perfecthash](https://uib.kattis.com/problems/uib.perfecthash)
 
 
 ## [2]&nbsp;&nbsp; Shortest paths (20 points)
 
+**a)** Solve the Kattis problem [torn2pieces](https://uib.kattis.com/problems/torn2pieces)
 
-## [3]&nbsp;&nbsp; Topological sort (15 points)
+**b)** Solve the Kattis problem [shortestpath1](https://uib.kattis.com/problems/shortestpath1)
+
+
+## [3]&nbsp;&nbsp; Topological sort (10 points)
+
+**a)** Solve the Kattis problem [builddeps](https://uib.kattis.com/problems/builddeps)
 
 
 ## [4]&nbsp;&nbsp; Big-O Quiz part II (15 points)
