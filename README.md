@@ -125,7 +125,9 @@ In this task, we examine hash maps.
 
 **a)** Solve the Kattis problem [torn2pieces](https://uib.kattis.com/problems/torn2pieces)
 
-**b)** Solve the Kattis problem [shortestpath1](https://uib.kattis.com/problems/shortestpath1)
+**b)** Some easy BFS problem
+
+**c)** Solve the Kattis problem [shortestpath1](https://uib.kattis.com/problems/shortestpath1)
 
 
 ## [3]&nbsp;&nbsp; Topological sort (10 points)
