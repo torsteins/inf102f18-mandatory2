@@ -123,13 +123,13 @@ In this task, we examine hash maps. Subtasks (a), (b) and (c) should be answered
 
 ## [2]&nbsp;&nbsp; Graphs (40 points)
 
-**a)** Solve the Kattis problem [wheresmyinternet](https://uib.kattis.com/problems/wheresmyinternet)
+**a)** Write a class `WheresMyInternet` that solves the Kattis problem [wheresmyinternet](https://uib.kattis.com/problems/wheresmyinternet)
 
-**b)** Solve the Kattis problem [grid](https://uib.kattis.com/problems/grid)
+**b)** Write a class `Grid` that solves the Kattis problem [grid](https://uib.kattis.com/problems/grid)
 
-**c)** Solve the Kattis problem [shortestpath1](https://uib.kattis.com/problems/shortestpath1)
+**c)** Write a class `ShortestPath` that solves the Kattis problem [shortestpath1](https://uib.kattis.com/problems/shortestpath1)
 
-**d)** Solve the Kattis problem [builddeps](https://uib.kattis.com/problems/builddeps)
+**d)** Write a class `BuildDeps` that solves the Kattis problem [builddeps](https://uib.kattis.com/problems/builddeps)
 
 
 ## [3]&nbsp;&nbsp; Big-O Quiz part II (10 points)
