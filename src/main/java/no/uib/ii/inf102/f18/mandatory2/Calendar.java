@@ -1,6 +1,9 @@
 package no.uib.ii.inf102.f18.mandatory2;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
+import java.util.Set;
 
 /**
  * @author Torstein Almighty

@@ -1,7 +1,5 @@
 package no.uib.ii.inf102.f18.mandatory2;
 
-import java.util.Objects;
-
 /**
  * @author You
  */
