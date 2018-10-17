@@ -107,7 +107,7 @@ the project you hand in.
   * Late assignments will be accepted for 24 hours, with a 20 point penalty.
 
 
-## [1]&nbsp;&nbsp; Hash maps (25 points)
+## [1]&nbsp;&nbsp; Hash maps (20 points)
 In this task, we examine hash maps. Subtasks (a), (b) and (c) should be answered in the pdf, whereas subtaks (d) should be answered in code.
 
 **a)** Insert the keys `F B T Z R V U J P O` into an initially empty table of `m = 5` lists, using separate chaining. Use the hash function `h(k) = (13 * k) % m` to transform the `k`'th letter of the alphabet into a table entry (for instance `h('A') = (13 * 1) % 5 = 3`). Find a suitable way to illustrate what the ChainingHashTable looks like.
@@ -121,7 +121,7 @@ In this task, we examine hash maps. Subtasks (a), (b) and (c) should be answered
 **e)** Write a class `PerfectHash` which solves the Kattis problem [uib.perfecthash](https://uib.kattis.com/problems/uib.perfecthash)
 
 
-## [2]&nbsp;&nbsp; Graphs (30 points)
+## [2]&nbsp;&nbsp; Graphs (40 points)
 
 **a)** Solve the Kattis problem [wheresmyinternet](https://uib.kattis.com/problems/wheresmyinternet)
 
@@ -132,7 +132,7 @@ In this task, we examine hash maps. Subtasks (a), (b) and (c) should be answered
 **d)** Solve the Kattis problem [builddeps](https://uib.kattis.com/problems/builddeps)
 
 
-## [3]&nbsp;&nbsp; Big-O Quiz part II (15 points)
+## [3]&nbsp;&nbsp; Big-O Quiz part II (10 points)
 
 Time has come for part II of the big quiz on runtime analysis! Since it is part II, it is only reasonable that the runtime of each function now should be a function of *two* variables. The formal definition of big-O needs to be adapted; however, the intutition should be quite easy to understand.
 
