@@ -124,7 +124,7 @@ In this task, we examine hash maps. Subtasks (a), and (b) and should be answered
 
 **b)** Write a class `Grid` that solves the Kattis problem [grid](https://uib.kattis.com/problems/grid)
 
-**c)** Write a class `ShortestPath` that solves the Kattis problem [shortestpath1](https://uib.kattis.com/problems/shortestpath1)
+**c)** Write a class `Bumped` that solves the Kattis problem [bumped](https://uib.kattis.com/problems/bumped)
 
 **d)** Write a class `BuildDeps` that solves the Kattis problem [builddeps](https://uib.kattis.com/problems/builddeps)
 
