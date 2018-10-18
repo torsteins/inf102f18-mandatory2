@@ -122,9 +122,9 @@ In this task, we examine hash maps. Subtasks (a), and (b) and should be answered
 
 **a)** Write a class `WheresMyInternet` that solves the Kattis problem [wheresmyinternet](https://uib.kattis.com/problems/wheresmyinternet)
 
-**b)** Write a class `Grid` that solves the Kattis problem [grid](https://uib.kattis.com/problems/grid)
+**b)** Write a class `Grid` that solves the Kattis problem [grid](https://uib.kattis.com/problems/grid) using a breath-first search
 
-**c)** Write a class `Bumped` that solves the Kattis problem [bumped](https://uib.kattis.com/problems/bumped)
+**c)** Write a class `Bumped` that solves the Kattis problem [bumped](https://uib.kattis.com/problems/bumped) using Dijkstra's algorithm.
 
 **d)** Write a class `BuildDeps` that solves the Kattis problem [builddeps](https://uib.kattis.com/problems/builddeps)
 
