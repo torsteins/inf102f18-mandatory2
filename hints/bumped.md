@@ -20,4 +20,4 @@ do this: Create *two* "copies" of the road network within the same graph
 object; then add the flight edges such that they all go from the first
 copy (the "before the flight" -network) to the second copy (the "after the flight" -network).
 
-Remeber to also handle the case when it is best not to fly at all.
+Remember to also handle the case when it is best not to fly at all.
