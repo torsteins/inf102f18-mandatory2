@@ -113,9 +113,9 @@ In this task, we examine hash maps. Subtasks (a), and (b) and should be answered
 
 **b)** Insert the keys `F B T Z R V U J P O` into an intially empty array of size `m = 16` using linear probing. Use the hash function `h(k) = (13 * k) % m` to transform the `k`'th letter of the alphabet into a table entry (for instance `h('B') = (13 * 2) % 16 = 10`). In the pdf, show the contents of the array on a single line.
 
-**d)** In the class [CalendarTest](src/test/java/no/uib/ii/inf102/f18/mandatory2/CalendarTest.java) there is a sanity test for the [Calendar](src/main/java/no/uib/ii/inf102/f18/mandatory2/Calendar.java) class which organize important [Event](src/main/java/no/uib/ii/inf102/f18/mandatory2/Event.java) objects. Like any meaningful calendar, it organizes events by [Date](src/main/java/no/uib/ii/inf102/f18/mandatory2/Date.java). However, the sanity test is not passing, and we don't know why. You have been tasked to fix the problem; however, you may NOT change the `Calendar` class in any way, shape or form (it was written by our boss, who is extremely fond his implementation), nor the sanity test (which is specified by our client).
+**c)** In the class [CalendarTest](src/test/java/no/uib/ii/inf102/f18/mandatory2/CalendarTest.java) there is a sanity test for the [Calendar](src/main/java/no/uib/ii/inf102/f18/mandatory2/Calendar.java) class which organize important [Event](src/main/java/no/uib/ii/inf102/f18/mandatory2/Event.java) objects. Like any meaningful calendar, it organizes events by [Date](src/main/java/no/uib/ii/inf102/f18/mandatory2/Date.java). However, the sanity test is not passing, and we don't know why. You have been tasked to fix the problem; however, you may NOT change the `Calendar` class in any way, shape or form (it was written by our boss, who is extremely fond his implementation), nor the sanity test (which is specified by our client).
 
-**e)** Write a class `PerfectHash` which solves the Kattis problem [uib.perfecthash](https://uib.kattis.com/problems/uib.perfecthash)
+**d)** Write a class `PerfectHash` which solves the Kattis problem [uib.perfecthash](https://uib.kattis.com/problems/uib.perfecthash)
 
 
 ## [2]&nbsp;&nbsp; Graphs (40 points)
