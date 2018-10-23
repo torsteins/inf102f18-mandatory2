@@ -12,7 +12,7 @@ to another vertex `v` if one can move from the location represented
 by `u` to the location represented by `v` in one step.
 
 There are multiple ways of approaching this model; one approach is
-to explicitly construct the directed, unweighted graph. For instance,
+to explicitly construct the directed unweighted graph. For instance,
 we can use the convention that location `(row, col)` represents vertex
 `i = row * columns + col` (in which case, we can easily map backwards
 as well: `row = i / columns` and `col = i % columns`).
