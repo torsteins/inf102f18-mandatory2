@@ -10,7 +10,7 @@ also be recompiled, and so forth.
 We can model the dependencies as a directed graph where there is an edge from
 package `y` to package `x` if `x` depends on `y`; in this graph, everything 
 reachable by a search from the changed file will need to be recompiled, but
-the order is not arbitrary; we need to linearize the directed acyclic graph
+the order is not arbitrary: we need to linearize the directed acyclic graph
 (see week41-02 in the [slides from lecture](https://mitt.uib.no/courses/12780/files/folder/lecturenotes)).
 
 You also need to handle that vertices are not by default numbers, but rather represented as strings. You
