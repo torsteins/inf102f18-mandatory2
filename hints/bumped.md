@@ -1,4 +1,4 @@
-Hint: bumped
+### Hint: bumped
 
 In the [bumped](https://uib.kattis.com/problems/bumped) problem,
 the input consists of a graph with two types of edges: undirected
