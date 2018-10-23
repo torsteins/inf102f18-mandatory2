@@ -120,6 +120,8 @@ In this task, we examine hash maps. Subtasks (a), and (b) and should be answered
 
 ## [2]&nbsp;&nbsp; Graphs (40 points)
 
+There are [hints](hints) available for all these problems, but you should definitely try to solve them without looking first. For problems (b) and (c) there also exists more elegant solutions than what the hints describe, so you should try to find those if you can. 
+
 **a)** Write a class `WheresMyInternet` that solves the Kattis problem [wheresmyinternet](https://uib.kattis.com/problems/wheresmyinternet)
 
 **b)** Write a class `Grid` that solves the Kattis problem [grid](https://uib.kattis.com/problems/grid) using a breath-first search
