@@ -12,8 +12,7 @@ to another vertex `v` if one can move from the location represented
 by `u` to the location represented by `v` in one step.
 
 There are multiple ways of approaching this model; one approach is
-to explicitly construct the directed unweighted graph (class `Digraph` from lecture notes). For instance,
-we can use the convention that location `(row, col)` represents vertex
+to explicitly construct the directed unweighted graph (e.g. an object of type `AdjListDigraph` from the [lecture notes](https://github.com/torsteins/inf102f18-lectures/blob/master/src/week41/AdjListDigraph.java)). We can for instance use the convention that location `(row, col)` represents vertex
 `i = row * columns + col` (in which case, we can easily map backwards
 as well: `row = i / columns` and `col = i % columns`).
 
