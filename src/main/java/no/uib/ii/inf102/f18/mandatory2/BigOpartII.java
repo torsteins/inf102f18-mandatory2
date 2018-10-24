@@ -172,8 +172,8 @@ public class BigOpartII {
 
         for (int i = 0; i < m; i++) {
             step();
-            a[random.nextInt(n/2 + 1, n + 1)] = -i;
-            int j = n;
+            int j = random.nextInt(n/2+1, n+1);
+            a[j] = -i;
             while (j > 0 && a[j] < a[j/2]) {
                 int t = a[j];
                 a[j] = a[j/2];
