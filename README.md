@@ -153,6 +153,9 @@ Function |   f  |  O
 
 and fill in the blanks. The column for big-O is worth twice as much as the exact function.
 
+#### *Update (Oct 24)* 
+A bug was discovered in function `l`. The worst-case runtime of the function will not change due to this fix.
+
 
 ##### Good luck! 
  
