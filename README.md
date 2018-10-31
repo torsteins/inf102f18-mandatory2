@@ -151,7 +151,7 @@ Function |   f  |  O
  ... | ... | ...
  `p` | ... | ...
 
-and fill in the blanks. The column for big-O is worth twice as much as the exact function.
+and fill in the blanks. The column for big-O is worth twice as much as the exact function. Note that our cost model is the number of *steps* (i.e. number of calls to the `step` function).
 
 #### *Update (Oct 24)* 
 A bug was discovered in function `l`. The worst-case runtime of the function will not change due to this fix.
