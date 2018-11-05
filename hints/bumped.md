@@ -21,3 +21,6 @@ object; then add the flight edges such that they all go from the first
 copy (the "before the flight" -network) to the second copy (the "after the flight" -network).
 
 Remember to also handle the case when it is best not to fly at all.
+
+PS: Use the `long` type to hold distances in your dijkstra, `int` might overflow
+(or, if you are using `double`, be careful with rounding when printing the answer).
